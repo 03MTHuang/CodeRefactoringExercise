@@ -1,0 +1,15 @@
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.csproj.AssemblyReference.cache
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.AssemblyInfoInputs.cache
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.AssemblyInfo.cs
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.csproj.CoreCompileInputs.cache
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\bin\Debug\net7.0\CodeRefactoringExercise.exe
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\bin\Debug\net7.0\CodeRefactoringExercise.deps.json
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\bin\Debug\net7.0\CodeRefactoringExercise.runtimeconfig.json
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\bin\Debug\net7.0\CodeRefactoringExercise.dll
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\bin\Debug\net7.0\CodeRefactoringExercise.pdb
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.dll
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\refint\CodeRefactoringExercise.dll
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.pdb
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\CodeRefactoringExercise.genruntimeconfig.cache
+C:\Users\黃美慈\OneDrive\YungChing\練習專案\CodeRefactoringExercise\CodeRefactoringExercise\obj\Debug\net7.0\ref\CodeRefactoringExercise.dll
